@@ -1,0 +1,8 @@
+{
+    "pkg": "launcher",
+    "name": "Paper Launcher",
+    "version": "0.0.1",
+    "author": "wisplite",
+    "description": "Cardstock's default launcher",
+    "icon": "icon.png"
+}
